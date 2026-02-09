@@ -1,13 +1,15 @@
 # Aim of Experiment: Study of Tuple in Python
 
 ## Theory: A tuple is a built-in Python data structure created using (). 
-• Elements are ordered and accessed using indexing starting from 0.  
-• len() is used to find the number of elements in a tuple.  
-• Supports membership operators and slicing.   
-• Tuples are immutable, so they cannot be modified.   
-• Immutability makes tuples faster and more secure than lists.  
+Elements are ordered and accessed using indexing starting from 0.  
+len() is used to find the number of elements in a tuple.  
+Supports membership operators and slicing.   
+Tuples are immutable, so they cannot be modified.   
+Immutability makes tuples faster and more secure than lists.  
+Tuples can store elements of different data types (e.g., integers, strings, floats).  
+A tuple can be nested inside another tuple, allowing complex data structures.  
+Tuples are often used to store fixed data or read-only collections, such as coordinates or configuration values.Differences between Tuple and List.   
 
-Differences between Tuple and List 
 a)Mutability →Tuple: immutable t = (1,2,3) | List: mutable l = [1,2,3].  
 b)Brackets used → Tuple: () → t = (1,2) | List: [] → l = [1,2].  
 c)Speed → Tuple: faster t = (1,2,3) | List: slower l = [1,2,3]
