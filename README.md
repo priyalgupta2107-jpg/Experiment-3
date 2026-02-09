@@ -19,14 +19,14 @@ e)Built-in methods → Tuple: fewer methods dir(()) | List: many methods l.appen
 ## Algorithm 1: 
 1.Start.   
 2.Define a tuple to store marks and attendance values.     
-3.Use built-in functions like sum(), len(), max(), and min() to calculate total marks, average, highest, and lowest marks.    
+3.Use built-in functions like sum(), len(), max(), and min() to calculate total marks,   average, highest, and lowest marks.    
 4.Display the results.  
 5.End.   
 
 ## Alogrithm 2:
 1.Start.    
 2.Use count() to count the number of presents ("P") in the attendance tuple.  
-3.If the number of presents is greater than or equal to 1, display Present; otherwise, display Absent.   
+3.If the number of presents is greater than or equal to 1,   display Present; otherwise, display Absent.   
 4.Display all calculated results.   
 5.Stop.  
 
