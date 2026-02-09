@@ -18,7 +18,8 @@ e)Built-in methods → Tuple: fewer methods dir(()) | List: many methods l.appen
 1.Start.   
 2.Define a tuple to store marks and attendance values.     
 3.Use built-in functions like sum(), len(), max(), and min() to calculate total marks, average, highest, and lowest marks.    
-3.End.   
+4.Display the results.  
+5.End.   
 
 ## Alogrithm 2:
 1.Start.    
